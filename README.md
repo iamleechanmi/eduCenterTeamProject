@@ -1,4 +1,4 @@
-# :bulb: eduCenter
+# :bulb: EduCenter
 관계형 데이터베이스 기반의 교육센터 운영 및 관리 프로그램입니다.
 <table>
   <tr>
